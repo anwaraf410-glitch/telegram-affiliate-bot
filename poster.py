@@ -1,7 +1,7 @@
 from telegram import Bot
 from config import BOT_TOKEN, CHANNELS
 
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token=1751962838:AAEJxl4gm9-ytzpvGlJa53ddFEsstBJ_kS8)
 
 def send_product(text, source):
     # القناة الخاصة بالمصدر
