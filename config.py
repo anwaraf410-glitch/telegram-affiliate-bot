@@ -1,4 +1,4 @@
-BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "1751962838:AAEJxl4gm9-ytzpvGlJa53ddFEsstBJ_kS8"
 
 CHANNELS = {
     "general": "@pick2takecom",
